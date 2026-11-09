@@ -17,6 +17,6 @@ A smart weather hardware inspired that meshtimes, that displays current weather 
 | Male Header Pin 2.54 mm | Connects amplifier to PCB | 1 | $6.98 | $6.98 | https://www.amazon.com/dp/B0FLJVHSRN |
 | PCB | Host all components | 1 | $10.00 | $10.00 | https://jlcpcb.com/quote |
 
-![PCB Image](PCB.png)
-![3D View](3D_View.png)
+![PCB Image](Image/PCB.png)
+![3D View](Image/3D_View.png)
    
